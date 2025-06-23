@@ -1,1 +1,1 @@
-# SnipesProject
+# Inkstruct
